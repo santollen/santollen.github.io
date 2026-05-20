@@ -7,7 +7,7 @@ import styles from './KakaoLinkButton.module.css';
 function KakaoLinkButton() {
   useEffect(() => {
     if (!window.Kakao.isInitialized()) {
-      window.Kakao.init('75d69ec3e3a9b7df562d51b0515e0649');
+      window.Kakao.init('eafcd8a9914e42b72520c6a916e57440');
     }
   }, []);
 
