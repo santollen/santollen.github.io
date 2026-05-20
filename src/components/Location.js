@@ -14,11 +14,11 @@ function Location() {
       <h3 className={styles.caption}><span>LOCATION</span></h3>
 
       <div className={styles.image_wrap}>
-        <img src={hall} alt="홀 이미지" />
+        <img src={hall} alt="홀 이미지" loading="lazy" />
       </div>
 
       <div className={styles.image_wrap}>
-        <img src={buffet} alt="뷔페 이미지" />
+        <img src={buffet} alt="뷔페 이미지" loading="lazy" />
       </div>
 
       <div className={styles.traffic_wrap}>

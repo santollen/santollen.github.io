@@ -109,7 +109,7 @@ function Gallery() {
             >
               {slide.images.map((image, imgIndex) => (
                 <li key={imgIndex}>
-                  <img src={image.src} alt={image.alt} />
+                  <img src={image.src} alt={image.alt} loading="lazy" />
                 </li>
               ))}
             </ul>
