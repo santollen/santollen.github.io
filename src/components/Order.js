@@ -37,10 +37,6 @@ function Order() {
           <span>주례자</span>
         </li>
         <li>
-          <span>축가</span>
-          <span>신부 동생</span>
-        </li>
-        <li>
           <span>행진</span>
           <span>신랑ㆍ신부</span>
         </li>
