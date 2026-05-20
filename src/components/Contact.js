@@ -1,13 +1,6 @@
-import React from 'react';
-
-import mobile from '../assets/icons/mobile.svg';
 import styles from './Contact.module.css';
 
 function Contact() {
-    const onNameClick = (phoneNumber) => {
-        window.location.href = `tel:${phoneNumber}`;
-    };
-    
     return (
         <div className={styles.contact}>
             <ul>
@@ -27,11 +20,6 @@ function Contact() {
                     <span>안셀라</span>
                 </li>
             </ul>
-
-            {/* <button className={styles.contact_button}> */}
-            {/*     <img src={mobile} alt="전화 아이콘" /> */}
-            {/*     연락하기 (이름 클릭) */}
-            {/* </button> */}
         </div>
     );
 }
