@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 
 import kakaoImage from '../assets/icons/kakao.svg';
 
@@ -7,7 +7,7 @@ import styles from './KakaoLinkButton.module.css';
 function KakaoLinkButton() {
   useEffect(() => {
     if (!window.Kakao.isInitialized()) {
-      window.Kakao.init('eafcd8a9914e42b72520c6a916e57440');
+      window.Kakao.init(process.env.REACT_APP_KAKAO_API_KEY);
     }
   }, []);
 

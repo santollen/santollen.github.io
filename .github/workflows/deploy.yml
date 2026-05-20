@@ -22,6 +22,8 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+        env:
+          REACT_APP_KAKAO_API_KEY: ${{ secrets.REACT_APP_KAKAO_API_KEY }}
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
