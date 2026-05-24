@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.286eccdd.css",
-    "main.js": "/static/js/main.e9d9a506.js",
+    "main.js": "/static/js/main.5307627b.js",
     "static/media/hanbok_2.jpg": "/static/media/hanbok_2.b03705a345a85185c22e.jpg",
     "static/media/hanbok_3.jpg": "/static/media/hanbok_3.500de8e2db9f157e970f.jpg",
     "static/media/hanbok_10.jpg": "/static/media/hanbok_10.15312597a1f0d8ec62f8.jpg",
@@ -42,18 +42,18 @@
     "static/media/poster_11.jpg": "/static/media/poster_11.374d0b4af8485999d061.jpg",
     "static/media/poster_7.jpg": "/static/media/poster_7.8083e358e33c9501849c.jpg",
     "static/media/poster_4.jpg": "/static/media/poster_4.00105ef41947bec450c4.jpg",
+    "static/media/open_book.svg": "/static/media/open_book.a23d19632d78657dd577eb54f08b0ed0.svg",
     "index.html": "/index.html",
-    "static/media/camera.svg": "/static/media/camera.3105e88c55e7b981b4ae987eda1d163a.svg",
     "static/media/prev_arrow.svg": "/static/media/prev_arrow.eb5cb810c6fe6d516c9c47662c6d257e.svg",
     "static/media/next_arrow.svg": "/static/media/next_arrow.63e78acf33eb8fa74a3b39d5d6d7dc6b.svg",
     "static/media/mail.svg": "/static/media/mail.2bc70727709211225df39bc319df7369.svg",
     "static/media/copy.svg": "/static/media/copy.8ef912cf9c8d73a29c6edfc455952207.svg",
     "static/media/kakao.svg": "/static/media/kakao.f4107da3d0c2163615bf7880ab604def.svg",
     "main.286eccdd.css.map": "/static/css/main.286eccdd.css.map",
-    "main.e9d9a506.js.map": "/static/js/main.e9d9a506.js.map"
+    "main.5307627b.js.map": "/static/js/main.5307627b.js.map"
   },
   "entrypoints": [
     "static/css/main.286eccdd.css",
-    "static/js/main.e9d9a506.js"
+    "static/js/main.5307627b.js"
   ]
 }
