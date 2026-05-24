@@ -4,18 +4,6 @@
     -webkit-tap-highlight-color: transparent;
 }
 
-.caption {
-    margin-bottom: 1.8rem;
-    text-align: center;
-}
-.caption span {
-    background: linear-gradient(to right, #ea3937, #6f5e98, #62c377);
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 1.3rem;
-    letter-spacing: 0.4rem;
-}
-
 .image_wrap {
     display: flex;
     flex-direction: column;

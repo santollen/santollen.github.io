@@ -1,11 +1,12 @@
 import React from 'react';
 
 import styles from './Order.module.css';
+import commonStyles from './Common.module.css';
 
 function Order() {
   return (
     <div className={styles.order}>
-      <h3 className={styles.caption}><span>식순</span></h3>
+      <h3 className={commonStyles.caption}><span>식순</span></h3>
 
       <ul className={styles.table}>
         <li>

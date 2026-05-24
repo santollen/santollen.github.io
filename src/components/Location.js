@@ -3,6 +3,7 @@ import buffet from '../assets/images/buffet.jpg';
 import naverMap from '../assets/icons/naver_map.png';
 
 import styles from './Location.module.css';
+import commonStyles from './Common.module.css';
 
 function Location() {
   const onButtonClick = () => {
@@ -11,7 +12,7 @@ function Location() {
 
   return (
     <section className={styles.location}>
-      <h3 className={styles.caption}><span>장소</span></h3>
+      <h3 className={commonStyles.caption}><span>오시는 길</span></h3>
 
       <div className={styles.image_wrap}>
         <img src={hall} alt="홀 이미지" loading="lazy" />

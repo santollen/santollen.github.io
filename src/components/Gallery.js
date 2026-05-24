@@ -10,6 +10,7 @@ import prevArrow from '../assets/icons/prev_arrow.svg';
 import nextArrow from '../assets/icons/next_arrow.svg';
 
 import styles from './Gallery.module.css';
+import commonStyles from './Common.module.css';
 
 function Gallery() {
   const [activeSlideIndex, setActiveSlideIndex] = useState(-1);
@@ -85,7 +86,7 @@ function Gallery() {
 
   return (
     <section className={styles.gallery}>
-      <h3 className={styles.caption}><span>사진첩</span></h3>
+      <h3 className={commonStyles.caption}><span>사진첩</span></h3>
 
       <div className={styles.image_wrap}>
         {/* 이미지 슬라이드 */}
