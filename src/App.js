@@ -3,6 +3,7 @@ import Greetings from './components/Greetings';
 import Location from './components/Location';
 import Account from './components/Account';
 import Gallery from './components/Gallery';
+import Meal from './components/Meal';
 
 import './common.css';
 import styles from './App.module.css';
@@ -29,11 +30,15 @@ function App() {
         <div id="location">
           <Location />
         </div>
+
+        <div id="meal">
+          <Meal />
+        </div>
         
         <div id="gallery">
           <Gallery />
         </div>
-        
+
         <div id="account">
           <Account />
         </div>

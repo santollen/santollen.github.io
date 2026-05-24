@@ -85,7 +85,7 @@ function Gallery() {
 
   return (
     <section className={styles.gallery}>
-      <h3 className={styles.caption}><span>GALLERY</span></h3>
+      <h3 className={styles.caption}><span>사진첩</span></h3>
 
       <div className={styles.image_wrap}>
         {/* 이미지 슬라이드 */}

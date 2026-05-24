@@ -1,0 +1,38 @@
+.meal {
+    padding: 7rem 2.4rem 7rem;
+}
+
+.caption {
+    margin-bottom: 1.8rem;
+    text-align: center;
+}
+.caption span {
+    background: linear-gradient(to right, #ea3937, #6f5e98, #62c377);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.3rem;
+    letter-spacing: 0.4rem;
+}
+
+.meal {
+    position: relative;
+    padding: 28rem 0 7rem;
+    text-align: center;
+}
+.meal::before {
+    content: "";
+    position: absolute;
+    top: 10rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+    width: 0.1rem;
+    height: 6rem;
+    background: #adb5bd;
+}
+
+.meal > p {
+    font-size: 1.6rem;
+    line-height: 2.2;
+}
+

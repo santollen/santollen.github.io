@@ -11,7 +11,7 @@ function Location() {
 
   return (
     <section className={styles.location}>
-      <h3 className={styles.caption}><span>LOCATION</span></h3>
+      <h3 className={styles.caption}><span>장소</span></h3>
 
       <div className={styles.image_wrap}>
         <img src={hall} alt="홀 이미지" loading="lazy" />

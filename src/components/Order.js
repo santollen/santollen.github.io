@@ -5,7 +5,7 @@ import styles from './Order.module.css';
 function Order() {
   return (
     <div className={styles.order}>
-      <h3 className={styles.caption}><span>WEDDING CEREMONY</span></h3>
+      <h3 className={styles.caption}><span>식순</span></h3>
 
       <ul className={styles.table}>
         <li>
