@@ -1,6 +1,6 @@
 import React from 'react';
 
-import camera from '../assets/icons/camera.svg';
+import open_book from '../assets/icons/open_book.svg';
 import Contact from './Contact';
 import Order from './Order';
 
@@ -23,17 +23,17 @@ function Greetings() {
         </div>
 
         <div className={styles.information}>
-            <img src={camera} alt="카메라 아이콘" />
+            <img src={open_book} alt="찬송가 아이콘" />
             <p>
               찬송가 620 장 - 여기에 모인우리<br/>
-
-              여기에 모인우리 주의 은총받을자여라<br/>
-              주께서 이자에 함께 계심을 아노라<br/>
+              <br/>
+              여기에 모인 우리 주의 은총 받을자여라<br/>
+              주께서 이 자리에 함께 계심을 아노라<br/>
               언제나 주님만을 찬양하며 따라가리니<br/>
               시험을 당할때도 함께 계심을 믿노라<br/>
-
+              <br/>
               이 믿음 더욱 굳세라 주가 지켜 주신다<br/>
-              어둔밤에도 주의 밝은빛 인도 하여주신다
+              어둔 밤에도 주의 밝은 빛 인도하여 주신다
             </p>
         </div>
     </div>
