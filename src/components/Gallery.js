@@ -2,7 +2,7 @@ import { useRef, useState } from 'react';
 
 import {
   white1, white2, white3, white4, white5, white6, white7, white8, white9, white10,
-  peach1, peach2, peach3,
+  peach1, peach2, peach3, peach4,
   hanbok1, hanbok2, hanbok3, hanbok4, hanbok5, hanbok6, hanbok7, hanbok8, hanbok9, hanbok10, hanbok11,
 } from '../assets/images/gallery';
 
@@ -170,6 +170,7 @@ const imageSlides = [
       { src: peach1, alt: "peach1" },
       { src: peach2, alt: "peach2" },
       { src: peach3, alt: "peach3" },
+      { src: peach4, alt: "peach4" },
     ],
   },
   {

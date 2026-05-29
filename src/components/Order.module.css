@@ -23,7 +23,14 @@
     text-align: left;
     font-size: 1.4rem;
 }
+.subtitle {
+    flex: 1;
+    text-align: center;
+    font-size: 1.3rem;
+    white-space: nowrap;
+}
 .table span:last-of-type {
+    width: 14rem;
     text-align: right;
     font-family: 'pretendard', sans-serif;
     font-size: 1.3rem;

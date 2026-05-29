@@ -26,11 +26,13 @@ function Order() {
           <span>신랑ㆍ신부</span>
         </li>
         <li>
-          <span>찬송가 605 장</span>
+          <span>찬송가</span>
+          <span className={styles.subtitle}>605 장</span>
           <span>주례자ㆍ다같이</span>
         </li>
         <li>
           <span>주례사</span>
+          <span className={styles.subtitle}>"복을 주시는 하나님"</span>
           <span>주례자</span>
         </li>
         <li>
@@ -42,19 +44,15 @@ function Order() {
           <span>주례자</span>
         </li>
         <li>
-          <span>축복기도</span>
+          <span>축복기도 & 축도</span>
           <span>주례자</span>
         </li>
         <li>
-          <span>양가 부모님께 인사</span>
+          <span>인사</span>
           <span>신랑ㆍ신부</span>
         </li>
         <li>
-          <span>내빈께 인사</span>
-          <span>신랑ㆍ신부</span>
-        </li>
-        <li>
-          <span>폐식</span>
+          <span>행진</span>
           <span>사회자</span>
         </li>
         <li>

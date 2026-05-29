@@ -12,6 +12,7 @@ import white10 from './white_10.jpg';
 import peach1 from './peach_1.jpg';
 import peach2 from './peach_2.jpg';
 import peach3 from './peach_3.jpg';
+import peach4 from './peach_4.jpg';
 
 import hanbok1 from './hanbok_1.jpg';
 import hanbok2 from './hanbok_2.jpg';
@@ -27,6 +28,6 @@ import hanbok11 from './hanbok_11.jpg';
 
 export {
   white1, white2, white3, white4, white5, white6, white7, white8, white9, white10,
-  peach1, peach2, peach3,
+  peach1, peach2, peach3, peach4,
   hanbok1, hanbok2, hanbok3, hanbok4, hanbok5, hanbok6, hanbok7, hanbok8, hanbok9, hanbok10, hanbok11,
 };
