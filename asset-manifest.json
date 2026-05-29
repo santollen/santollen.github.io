@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fdaa7092.css",
-    "main.js": "/static/js/main.eb5f9c49.js",
+    "main.js": "/static/js/main.e1fae9ca.js",
     "static/media/hanbok_2.jpg": "/static/media/hanbok_2.b03705a345a85185c22e.jpg",
     "static/media/hanbok_3.jpg": "/static/media/hanbok_3.500de8e2db9f157e970f.jpg",
     "static/media/hanbok_10.jpg": "/static/media/hanbok_10.15312597a1f0d8ec62f8.jpg",
@@ -50,10 +50,10 @@
     "static/media/copy.svg": "/static/media/copy.8ef912cf9c8d73a29c6edfc455952207.svg",
     "static/media/kakao.svg": "/static/media/kakao.f4107da3d0c2163615bf7880ab604def.svg",
     "main.fdaa7092.css.map": "/static/css/main.fdaa7092.css.map",
-    "main.eb5f9c49.js.map": "/static/js/main.eb5f9c49.js.map"
+    "main.e1fae9ca.js.map": "/static/js/main.e1fae9ca.js.map"
   },
   "entrypoints": [
     "static/css/main.fdaa7092.css",
-    "static/js/main.eb5f9c49.js"
+    "static/js/main.e1fae9ca.js"
   ]
 }
