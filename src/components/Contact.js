@@ -9,7 +9,7 @@ function Contact() {
                     ㆍ
                     <span>김영미</span>
                     의 장남
-                    <span>김산</span>
+                    <span>김{'　'}산</span>
                 </li>
 
                 <li>

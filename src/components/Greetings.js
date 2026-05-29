@@ -1,6 +1,7 @@
 import React from 'react';
 
 import open_book from '../assets/icons/open_book.svg';
+import bible_icon from '../assets/icons/bible.png';
 import Contact from './Contact';
 import Order from './Order';
 
@@ -25,7 +26,7 @@ function Greetings() {
         <div className={styles.information}>
             <img src={open_book} alt="찬송가 아이콘" />
             <p>
-              찬송가 620 장 - 여기에 모인우리<br/>
+              찬송가 605 장 - 여기에 모인우리<br/>
               <br/>
               여기에 모인 우리 주의 은총 받을자여라<br/>
               주께서 이 자리에 함께 계심을 아노라<br/>
@@ -33,7 +34,23 @@ function Greetings() {
               시험을 당할때도 함께 계심을 믿노라<br/>
               <br/>
               이 믿음 더욱 굳세라 주가 지켜 주신다<br/>
-              어둔 밤에도 주의 밝은 빛 인도하여 주신다
+              어둔 밤에도 주의 밝은 빛 인도하여 주신다<br/>
+              <br/>
+              아멘
+            </p>
+        </div>
+
+        <br/>
+        <br/>
+        <br/>
+
+        <div className={styles.information}>
+            <img src={bible_icon} alt="성경책 아이콘" />
+            <p>
+              주례 말씀<br/>
+              <br/>
+              "복을 주시는 하나님"<br/>
+              창세기 1장 27-28절<br/>
             </p>
         </div>
     </div>
