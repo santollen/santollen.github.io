@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.fdaa7092.css",
-    "main.js": "/static/js/main.e1fae9ca.js",
+    "main.css": "/static/css/main.478038d9.css",
+    "main.js": "/static/js/main.382ef2d6.js",
+    "static/media/peach_3.jpg": "/static/media/peach_3.915c159d974b15da8055.jpg",
     "static/media/hanbok_2.jpg": "/static/media/hanbok_2.b03705a345a85185c22e.jpg",
     "static/media/hanbok_3.jpg": "/static/media/hanbok_3.500de8e2db9f157e970f.jpg",
     "static/media/hanbok_10.jpg": "/static/media/hanbok_10.15312597a1f0d8ec62f8.jpg",
@@ -23,7 +24,7 @@
     "static/media/hanbok_4.jpg": "/static/media/hanbok_4.3076d399a592574afe56.jpg",
     "static/media/hanbok_5.jpg": "/static/media/hanbok_5.af06f1a44ed3e921fc38.jpg",
     "static/media/white_6.jpg": "/static/media/white_6.01418b832a2bcccbc66c.jpg",
-    "static/media/peach_3.jpg": "/static/media/peach_3.7c4ded9e0c5d90ef25f1.jpg",
+    "static/media/peach_4.jpg": "/static/media/peach_4.7c4ded9e0c5d90ef25f1.jpg",
     "static/media/white_10.jpg": "/static/media/white_10.4465d06bad34eea1d3c7.jpg",
     "static/media/white_4.jpg": "/static/media/white_4.501abe67cfeb93e8ec8a.jpg",
     "static/media/white_7.jpg": "/static/media/white_7.e4b7ebf9e1c92c6eabad.jpg",
@@ -49,11 +50,11 @@
     "static/media/mail.svg": "/static/media/mail.2bc70727709211225df39bc319df7369.svg",
     "static/media/copy.svg": "/static/media/copy.8ef912cf9c8d73a29c6edfc455952207.svg",
     "static/media/kakao.svg": "/static/media/kakao.f4107da3d0c2163615bf7880ab604def.svg",
-    "main.fdaa7092.css.map": "/static/css/main.fdaa7092.css.map",
-    "main.e1fae9ca.js.map": "/static/js/main.e1fae9ca.js.map"
+    "main.478038d9.css.map": "/static/css/main.478038d9.css.map",
+    "main.382ef2d6.js.map": "/static/js/main.382ef2d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdaa7092.css",
-    "static/js/main.e1fae9ca.js"
+    "static/css/main.478038d9.css",
+    "static/js/main.382ef2d6.js"
   ]
 }
