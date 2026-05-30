@@ -1,9 +1,6 @@
 import React from 'react';
 
-import open_book from '../assets/icons/open_book.svg';
-import bible_icon from '../assets/icons/bible.png';
 import Contact from './Contact';
-import Order from './Order';
 
 import styles from './Greetings.module.css';
 
