@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.722388ef.css",
-    "main.js": "/static/js/main.cc8c448f.js",
+    "main.css": "/static/css/main.5dd643b7.css",
+    "main.js": "/static/js/main.dba1f87f.js",
     "static/media/peach_3.jpg": "/static/media/peach_3.915c159d974b15da8055.jpg",
     "static/media/hanbok_2.jpg": "/static/media/hanbok_2.b03705a345a85185c22e.jpg",
     "static/media/hanbok_3.jpg": "/static/media/hanbok_3.500de8e2db9f157e970f.jpg",
@@ -50,11 +50,11 @@
     "static/media/mail.svg": "/static/media/mail.2bc70727709211225df39bc319df7369.svg",
     "static/media/copy.svg": "/static/media/copy.8ef912cf9c8d73a29c6edfc455952207.svg",
     "static/media/kakao.svg": "/static/media/kakao.f4107da3d0c2163615bf7880ab604def.svg",
-    "main.722388ef.css.map": "/static/css/main.722388ef.css.map",
-    "main.cc8c448f.js.map": "/static/js/main.cc8c448f.js.map"
+    "main.5dd643b7.css.map": "/static/css/main.5dd643b7.css.map",
+    "main.dba1f87f.js.map": "/static/js/main.dba1f87f.js.map"
   },
   "entrypoints": [
-    "static/css/main.722388ef.css",
-    "static/js/main.cc8c448f.js"
+    "static/css/main.5dd643b7.css",
+    "static/js/main.dba1f87f.js"
   ]
 }
