@@ -4,6 +4,7 @@ import Location from './components/Location';
 import Account from './components/Account';
 import Gallery from './components/Gallery';
 import Meal from './components/Meal';
+import Worship from './components/Worship';
 
 import './common.css';
 import styles from './App.module.css';
@@ -37,6 +38,10 @@ function App() {
         
         <div id="gallery">
           <Gallery />
+        </div>
+
+        <div id="worship">
+          <Worship />
         </div>
 
         <div id="account">
