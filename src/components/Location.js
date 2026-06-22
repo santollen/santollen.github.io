@@ -88,7 +88,7 @@ function Location() {
             <span>단체 버스</span>
             <ul>
               <li className={styles.parking_info}>
-                강원도 춘천 온누리교회 11:30분 출발<br />
+                강원도 춘천 온누리교회 오전 11시 출발<br />
               </li>
             </ul>
           </li>
