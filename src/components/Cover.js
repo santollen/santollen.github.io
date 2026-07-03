@@ -46,7 +46,7 @@ function Cover() {
         <p className={styles.sub_title}>
           <span>26년 7월 18일 오후 2:00</span>
           <br />
-          <span>더컨벤션 잠실</span>
+          <span>더컨벤션 잠실, 아모르홀</span>
         </p>
       </div>
     </div>
