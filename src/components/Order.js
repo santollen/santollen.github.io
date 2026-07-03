@@ -15,7 +15,7 @@ function Order() {
         </li>
         <li>
           <span>화촉점화</span>
-          <span>양가 부모님</span>
+          <span>양가 어머님</span>
         </li>
         <li>
           <span>입장</span>
@@ -49,7 +49,7 @@ function Order() {
         </li>
         <li>
           <span>인사</span>
-          <span>신랑ㆍ신부</span>
+          <span>신랑ㆍ신부ㆍ부모님</span>
         </li>
         <li>
           <span>행진</span>

@@ -28,7 +28,7 @@ function Location() {
             <span>주소</span>
             <ul>
               <li>
-                서울 송파구 올림픽로 319, <span className={styles.impact}>더컨벤션 잠실</span> 3층
+                서울 송파구 올림픽로 319, <span className={styles.impact}>더컨벤션 잠실</span> 아모르홀 (3층)
               </li>
             </ul>
           </li>
