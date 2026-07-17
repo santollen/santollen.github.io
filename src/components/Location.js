@@ -80,6 +80,7 @@ function Location() {
             <ul>
               <li className={styles.parking_info}>
                 교통회관 지상, 지하 주차장 이용<br />
+                주차권 및 차량 등록은 1층 중앙에서 가능합니다 (2시간 무료 주차).
               </li>
             </ul>
           </li>
@@ -88,7 +89,13 @@ function Location() {
             <span>단체 버스</span>
             <ul>
               <li className={styles.parking_info}>
-                강원도 춘천 온누리교회 오전 11시 출발<br />
+                춘천온누리교회 오전 11시 출발<br />
+              </li>
+              <li className={styles.parking_info}>
+                비전교회 오후 12시 20분 출발<br />
+              </li>
+              <li className={styles.parking_info}>
+                부천 서문교회 오후 12시 15분 출발<br />
               </li>
             </ul>
           </li>
